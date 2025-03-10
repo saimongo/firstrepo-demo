@@ -1,2 +1,3 @@
 # firstrepo-demo
-first Git Repository
+first Git Repository.
+Author-saimonGo
